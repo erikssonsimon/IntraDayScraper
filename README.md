@@ -75,6 +75,6 @@ Older `*_xy.json` caches are not reused by the yearly market scraper.
 - Helper functions for power generation and weather data are included but are not called by default.
 - Regression analysis and battery dispatch or profitability modelling are downstream tasks, not implemented in this script.
 
-## Data source and acknowledgement
+## Data source
 
 - [Energy-Charts](https://www.energy-charts.info/) — electricity market data.
